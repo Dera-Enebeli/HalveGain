@@ -18,7 +18,7 @@ export default function About() {
               At HalveGain, we are dedicated to revolutionizing the way you
               trade cryptocurrencies. Our mission is to empower traders of all
               levels with cutting-edge technology and expert insights, ensuring
-              success in the dynamic world of digital assets.
+              success in the dynamic world of digital asset.
             </p>
             <p className="text-lg md:text-xl mb-6 leading-relaxed">
               Whether you're a seasoned investor or just starting out, HalveGain
