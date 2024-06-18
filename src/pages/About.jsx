@@ -6,7 +6,7 @@ export default function About() {
       <section className="relative bg-gradient-to-b from-gray-900 to-gray-700 px-4 py-12 mt-12 rounded-lg shadow-xl">
         <div className="container mx-auto">
           <img
-            src="/src/assets/images/Group+Photography.jpeg"
+            src="/assets/images/Group+Photography.jpeg"
             alt="About Us Image"
             className="absolute inset-0 w-full h-full object-cover opacity-25 rounded-lg"
           />
@@ -40,7 +40,7 @@ export default function About() {
         <section className="flex flex-col lg:flex-row items-center justify-center gap-12 lg:gap-20">
           <div className="lg:w-1/2">
             <img
-              src="/src/assets/images/cus.png"
+              src="/assets/images/cus.png"
               alt="About Us Image"
               className="rounded-lg shadow-lg w-full"
             />
