@@ -9,13 +9,13 @@ import { Link } from "react-router-dom";
 import successful from "../asset/images/successful.svg";
 import failed from "../asset/images/failed.svg";
 import pending from "../asset/images/pending.svg";
-import Table from "../src/settingsModals/shared/Table";
+import Table from "../settingsModals/shared/Table";
 import { AiOutlineClose } from "react-icons/ai";
 import { MdKeyboardArrowRight } from "react-icons/md";
 
 import { FaArrowRight } from "react-icons/fa";
 import axios from "axios";
-import MobileTable from "../src/settingsModals/shared/MobileTable";
+import MobileTable from "../settingsModals/shared/MobileTable";
 function Wallet() {
   const [show, setShow] = useState(false);
   const [bankData, setBankData] = useState([]);

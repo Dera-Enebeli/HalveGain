@@ -6,8 +6,9 @@ import About from "./pages/About";
 import Services from "./pages/Services";
 import Contact from "./pages/Contact";
 import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
-import SignIn from "../pages2/SignIn";
+import SignIn from "./pages2/SignIn";
 import Register from "./pages/Register";
+// import DashboardHome from "./pages2/DashboardHome";
 
 export default function App() {
   function PageLayout() {
@@ -51,6 +52,10 @@ export default function App() {
           path: "/signIn",
           element: <SignIn />,
         },
+        // {
+        //   path: "/dashboardHome",
+        //   element: <DashboardHome />,
+        // },
       ],
     },
     {
