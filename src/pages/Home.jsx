@@ -91,7 +91,7 @@ export default function Home() {
 
         <div className="md:flex mx-auto my-auto">
           <img
-            src="src/assets/images/cover2-removebg-preview.png"
+            src="/src/assets/images/cover2-removebg-preview.png"
             alt=""
             className="mx-auto my-auto w-full max-w-96 h-auto md:w-80 md:h-80"
           />
@@ -157,7 +157,7 @@ export default function Home() {
 
         <div className="md:flex flex-shrink-0 mx-auto my-auto">
           <img
-            src="src/assets/images/Buy_crypto_hero.webp"
+            src="/src/assets/images/Buy_crypto_hero.webp"
             alt=""
             className="mx-auto my-auto flex-shrink-0 w-96 h-96"
           />
@@ -186,7 +186,7 @@ export default function Home() {
 
         <div className="md:flex flex-shrink-0 mx-auto my-auto">
           <img
-            src="src/assets/images/lyufg.png"
+            src="/src/assets/images/lyufg.png"
             alt=""
             className="mx-auto my-auto flex-shrink-0 w-96 h-96"
           />
@@ -218,7 +218,7 @@ export default function Home() {
       <section className="flex-col md:flex-col lg:flex-row flex justify-center bg-gray-300">
         <div className="sm:flex justify-start sm:items-center md:justify-start items-start lg:justify-center lg:items-center">
           <img
-            src="src/assets/images/Group+Photography.jpeg"
+            src="/src/assets/images/Group+Photography.jpeg"
             alt=""
             className="h-[35rem] w-[35rem] bg-custom-blue object-cover"
           />
@@ -466,7 +466,7 @@ export default function Home() {
         </div>
         {/* <div className="flex justify-center mt-10 md:mt-20">
           <img
-            src="src/assets/images/bot2.gif"
+            src="/src/assets/images/bot2.gif"
             alt="AI Trading Bot"
             className="w-[25rem] h-[25rem] md:w-[30rem] md:h-[30rem] lg:max-w-lg rounded-lg shadow-xl"
           />
@@ -490,16 +490,16 @@ export default function Home() {
 
         <section className="flex pt-5 flex-wrap md:gap-6 gap-10 mb-10 px-5  lg:flex justify-around lg:flex-wrap">
           <div className="w-[20rem] ">
-            <img src="src/assets/images/blockchain-1-300x65.png" alt="" />
+            <img src="/src/assets/images/blockchain-1-300x65.png" alt="" />
           </div>
           <div className="w-[20rem]">
-            <img src="src/assets/images/Coindesk-1-300x58.png" alt="" />
+            <img src="/src/assets/images/Coindesk-1-300x58.png" alt="" />
           </div>
           <div className="w-[20rem]">
-            <img src="src/assets/images/coinbase.webp" alt="" />
+            <img src="/src/assets/images/coinbase.webp" alt="" />
           </div>
           <div className="w-[20rem]">
-            <img src="src/assets/images/forbes-1-300x93.jpg" alt="" />
+            <img src="/src/assets/images/forbes-1-300x93.jpg" alt="" />
           </div>
         </section>
       </section>
@@ -561,7 +561,7 @@ export default function Home() {
             </div>
             <p>
               HalveGain has completely changed the way I approach cryptocurrency
-              trading. As someone relatively new to the world of digital assets,
+              trading. As someone relatively new to the world of digi/tal assets,
               I was initially hesitant to dive in. However, HalveGain's
               intuitive platform and powerful AI-driven insights have given me
               the confidence to navigate the market with ease. Thanks to
@@ -747,7 +747,7 @@ export default function Home() {
       <section className="flex flex-col gap-6 px-2 flex-wrap bg-slate-200 pb-[20rem] md:flex-row justify-evenly pt-10">
         <div className="flex justify-center flex-col items-center  bg-gray-200 ">
           <img
-            src="src/assets/images/roger-695x695-1-480x480.jpeg"
+            src="/src/assets/images/roger-695x695-1-480x480.jpeg"
             alt=""
             className="flex h-[15rem] w-[15rem] rounded-lg hover:scale-105 object-cover "
           />
@@ -756,7 +756,7 @@ export default function Home() {
 
         <div className="flex justify-center flex-col items-center  bg-gray-200 ">
           <img
-            src="src/assets/images/rog4.jpeg"
+            src="/src/assets/images/rog4.jpeg"
             alt=""
             className="flex h-[15rem] w-[15rem] rounded-lg hover:scale-105 object-cover "
           />
@@ -765,7 +765,7 @@ export default function Home() {
 
         <div className="flex justify-center flex-col items-center  bg-gray-200 ">
           <img
-            src="src/assets/images/rog3.jpeg"
+            src="/src/assets/images/rog3.jpeg"
             alt=""
             className="flex h-[15rem] w-[15rem] rounded-lg hover:scale-105 object-cover "
           />
@@ -774,7 +774,7 @@ export default function Home() {
 
         <div className="flex justify-center flex-col items-center  bg-gray-200 ">
           <img
-            src="src/assets/images/rog4.jpeg"
+            src="/src/assets/images/rog4.jpeg"
             alt=""
             className="flex h-[15rem] w-[15rem] rounded-lg hover:scale-105 object-cover "
           />
